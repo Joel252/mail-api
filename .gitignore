@@ -1,0 +1,3 @@
+# Ignored environment folders/files
+.venv
+.env
