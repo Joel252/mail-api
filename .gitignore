@@ -1,3 +1,6 @@
-# Ignored environment folders/files
+# Ignore python data
+__pycache__
+
+# Ignore environment folders/files
 .venv
 .env
